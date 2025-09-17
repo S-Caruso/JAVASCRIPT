@@ -12,6 +12,7 @@ It contains a number of features for:
 </ul>
 and much more.<br>
 
+
 Generally used alongside HTML and CSS, is able to update and change both of them.<br>
 JS is great for its **simplicity, speed, versatility, popularity, server load and updates**.<br>
 Javascript makes your site or project *dynamic* !
