@@ -1,5 +1,5 @@
 # JAVASCRIPT  - the future of the web !
-**Javascript** is one of the ****most used programming languages in the World**.
+**Javascript** is one of the **most used programming languages in the World**.
 
 It's a scripting language that caters the most to web-based programs, creating **dynamic and interactive web content** as applications and browsers.
 
