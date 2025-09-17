@@ -10,8 +10,8 @@ It contains a number of features for:
 <li>showing the right text labels when needed</li>
 <li>sorting terms into the desired order</li>
 </ul>
-and much more.<br>
 
+and much more.
 
 Generally used alongside HTML and CSS, is able to update and change both of them.<br>
 JS is great for its **simplicity, speed, versatility, popularity, server load and updates**.<br>
